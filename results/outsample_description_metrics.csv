@@ -1,0 +1,7 @@
+Model,BLEURT,ROUGE-L,BERTScore
+eval_desc_4o,0.3922,0.1286,0.8730
+eval_desc_mistral,0.3602,0.1438,0.8856
+eval_desc_ts_ts3,0.5029,0.2970,0.8975
+eval_desc_vl_ts,0.4331,0.1489,0.8834
+eval_desc_vl_ts3,0.4684,0.1487,0.8913
+eval_desc_vl_ts4,0.4413,0.1394,0.8866
